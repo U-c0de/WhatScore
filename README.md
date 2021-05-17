@@ -8,7 +8,7 @@
   <h1 align="center"><b>(Cricket Score Live Updates)</b></h1>
 
   <p align="center">
-    <i><b> Score Updates of Live Matches directly on the What's App Number Added</b></i> 
+    <i><b> Score Updates of Live Cricket Matches directly on the What's App Number Added</b></i> 
     <br />
   </p>
 </p>
