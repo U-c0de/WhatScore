@@ -38,6 +38,6 @@ pip install -r requirements.txt
   
   
 <div class="footer">
-  <p align="center"><b>(Remember to 🌟 this repository)</b> </p>
+  <p align="center"><b>(Remember to 🌟 this repository)</b></p>
 </div>
 
