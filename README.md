@@ -13,6 +13,9 @@
   </p>
 </p>
 <br>
+<br>
+<div class="row">
+   <p> <img align="right" src="https://github.com/U-c0de/WhatScore/blob/main/1.jpg" alt="1"  width="200" height="270" border="4">
 
 ## 👋🏻 Walkthrough
 
