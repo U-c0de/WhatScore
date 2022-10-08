@@ -1,8 +1,8 @@
 # WhatScore-Cricket Live Updates 🏏
 <br>
 <p align="center">
-  <a href="https://github.com/swapnilsparsh/Rescue">
-    <img src="https://www.mykhel.com/img/2020/08/cricket2-1597054118.jpg" width="700" height="400">
+  <a href="https://github.com/">
+    <img src="https://image.shutterstock.com/image-vector/set-cricket-icon-bat-ball-260nw-1052269739.jpg" width="650" height="400">
   </a>
 
   <h1 align="center"><b>(Cricket Score Live Updates)</b></h1>
