@@ -29,7 +29,7 @@ pip install -r requirements.txt
 2. Run the Code directly.
 
 
-3. Check What's App for Live Updates.
+3. Check What's App for Live Cricket Updates.
 
 <br>
 
